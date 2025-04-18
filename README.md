@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rithwik3425" target="blank"><img src="https://img.shields.io/twitter/follow/rithwik3425?logo=twitter&style=for-the-badge" alt="rithwik3425" /></a> </p>
 
-- 🔭 I’m currently working on **EVault**
+- 🔭 I’m currently working on **OS Development**
 
 - 🌱 I’m currently learning **Rust**
 
