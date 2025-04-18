@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **EVault**
 
-- 🌱 I’m currently learning **Dart,Flutter**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React js, JS, UI/UX**
 
-- 📫 How to reach me **rithwikchimmani3425@gmail.com**
+- 📫 How to reach me **work.rithwikchimmani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
