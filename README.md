@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithwik Chimmani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">If it compiles, it ships. If it doesn’t, I still ship.</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithwik3425&label=Profile%20views&color=0e75b6&style=flat" alt="rithwik3425" /> </p>
 
